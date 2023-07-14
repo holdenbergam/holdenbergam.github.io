@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "N. Bergam"
-  avatar           : "images/cartoon.png"
+  avatar           : "cartoon.png"
   bio              : "Student at Columbia"
   location         : "New York City"
   employer         :
