@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Noah. I am a rising third-year at Columbia studying mathematics and computer science. 
+I am a rising third-year at Columbia studying math and computer science. I enjoy research and teaching.
+
 
 Research
 ======
@@ -19,4 +20,4 @@ My current research projects include a rigorous analysis of the loss landscape o
 
 Teaching
 ======
-There is a daunting amount of knowledge out there. I take inspiration in the idea that people who put in the work of learning can help refine the knowledge base. This drives me to create learning materials, which usually take the form of videos (housed by my YouTube channel) or expository writing (soon to be housed on this website). 
+There is a daunting amount of knowledge out there. I take inspiration in the idea that people who put in the work of learning can help refine the knowledge base. This drives me to create learning materials, which usually take the form of videos (housed by my YouTube channel) or expository writing (to be housed on this website). 
