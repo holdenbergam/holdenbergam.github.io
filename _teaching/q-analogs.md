@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "MATH 3952, Columbia University"
-date: "Spring 2023"
+date: 2023-05-10
 location: "New York, NY"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Club"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Columbia Undergraduate Math Society"
-date: "Spring 2022 - Present"
+date: 2023-08-22
 location: "New York, NY"
 ---
 
