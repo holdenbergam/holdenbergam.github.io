@@ -2,7 +2,7 @@
 title: "Readings in Dimensionality Reduction"
 collection: teaching
 type: "Independent Studies"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/redux
 venue: "Verma Lab, Columbia University"
 date: 2023-05-10
 location: "New York, NY"

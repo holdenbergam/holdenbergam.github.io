@@ -2,7 +2,7 @@
 title: "Seminar in Enumerative Combinatorics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/q-analogs
 venue: "MATH 3952, Columbia University"
 date: 2023-05-10
 location: "New York, NY"

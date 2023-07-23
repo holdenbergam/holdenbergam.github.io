@@ -2,7 +2,7 @@
 title: "Lectures for the Undergraduate Math Society"
 collection: teaching
 type: "Club"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ums
 venue: "Columbia Undergraduate Math Society"
 date: 2023-08-22
 location: "New York, NY"
@@ -19,7 +19,9 @@ previous applications of TDA to time series data, we collect topological metrics
 
 Coins, Partitions, and Generating Functions
 ======
-<a href="ums2.pdf">[Notes] </a> <a href="https://www.youtube.com/watch?v=3llKS5i7vV8&t=2041s&ab_channel=NoahBergam">[Video] </a>
+<a href="ums2.pdf">[Notes] </a> 
+[Video](https://www.youtube.com/watch?v=3llKS5i7vV8&t=2041s&ab_channel=NoahBergam)
+
 How many ways are there to change a dollar into pennies, nickels, quarters, and dimes? How quickly can we figure it out? These questions and their immediate generalizations take us on a fascinating tour of combinatorics. In this talk, we analyze the change-making problem using generating functions, and we use our method to motivate the theory of counting partitions (where a partition is simply an arrangement of n objects into k distinct piles). In developing this theory, we arrive at powerful results such as Euler's Pentagonal Number Theorem and Hardy and Ramanujan's asymptotic formula for the partition function.
 
 t-SNE's spectral regime
