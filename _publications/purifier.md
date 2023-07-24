@@ -1,3 +1,4 @@
+
 ---
 title: "Designing and Simulating a Smart Air Purifier to Combat
 HVAC-induced COVID-19 Transmission"
@@ -14,3 +15,6 @@ citation: 'N. Bergam et al., "Designing and Simulating a Smart Air Purifier to C
 # [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
 # Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
+
+
