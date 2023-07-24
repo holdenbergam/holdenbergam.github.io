@@ -8,4 +8,4 @@ date: 2023-05-10
 location: "New York, NY"
 ---
 
-I have been doing a lot of research in nonlinear dimensionality reduction. I will soon be attaching some pedagogical material I have developed in the process.
+I have been working on research in dimensionality reduction. 
