@@ -19,4 +19,4 @@ My current research projects include a rigorous analysis of the loss landscape o
 
 Teaching
 ======
-There is a daunting amount of knowledge out there. I take inspiration in the idea that people who put in the work of learning can help refine the knowledge base. This drives me to create learning materials, which usually take the form of videos (housed by my YouTube channel) or expository writing (to be housed on this website). 
+There is a daunting amount of knowledge out there. I take inspiration in the idea that people who put in the work of learning can help refine the knowledge base. This drives me to create learning materials, which usually take the form of videos (housed by my <a href="https://www.youtube.com/user/njbergam">YouTube channel</a>) or expository writing (housed on this website). 
