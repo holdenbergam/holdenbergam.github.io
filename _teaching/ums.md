@@ -27,3 +27,8 @@ t-SNE's spectral regime
 ======
 <a href="ums3.pdf">[Presentation] </a>
 t-SNE (Van der Maaten 2008) is a powerful dimensionality reduction algorithm. In this talk, we introduce the leading theoretical model for understanding t-SNE (and what it might be missing). This model, developed by Cai and Ma (2022), unveils how, under certain conditions, t-SNE approximates a classical dimensionality reduction technique known as spectral clustering.
+
+The Duality of Trace and Determinant
+======
+<a href="ums4.pdf">[Presentation] </a>
+The exterior product and the k-linear extension provide us with a very elegant way to relate the trace and determinant (and envision some of the other matrix invariants that lie "in between'' them). In this presentation, we further explore the relationship between trace and determinant through the lens of two famous theorems: Liouville's identity and Jacobi's formula. We sketch the proofs of both results using formal power series, following Winitzki §4.5.
