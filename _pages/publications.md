@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -27,10 +27,18 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   <a href="https://www.parabola.unsw.edu.au/files/articles/2020-2029/volume-57-2021/issue-2/vol57_no2_5.pdf">[Paper] </a> 
   </li>
 
+
   <li><b>Confidence-Calibrated Ensemble Dense Phrase Retrieval.</b> <br>
   William Yang, <u>Noah Bergam</u>, Arnav Jain, Nima Sheikhoslami. <br>
   <a href="https://arxiv.org/abs/2306.15917">[Paper] </a> 
   </li>
+
+  <li><b>GAGA: A Graph Theoretic Approach to Greenland Surface Modeling</b> <br>
+  <u>Noah Bergam</u>, Abani Patra. <br>
+  <a href="gaga.pdf">[Slides] </a> 
+  </li>
+
+
 </ul>
 
 
