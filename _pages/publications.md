@@ -12,7 +12,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   <li><b>Legal and Political Stance Detection of SCOTUS Language</b> <br>
   <u>Noah Bergam</u>, Emily Allaway, and Kathleen McKeown <br>
   NLLP Workshop, EMNLP 2022. <br>
-  <a href="https://aclanthology.org/2022.nllp-1.25/">[Paper] </a> <a href="scotus_pres.pdf">[Poster] </a>
+  <a href="https://aclanthology.org/2022.nllp-1.25/">[Paper] </a> <a href="_publications/scotus_pres.pdf">[Poster] </a>
   </li>
   
   <li><b>Designing and Simulating a Smart Air Purifier to Combat HVAC-induced COVID-19 Transmission</b> <br>
@@ -35,7 +35,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
   <li><b>GAGA: A Graph Theoretic Approach to Greenland Surface Modeling</b> <br>
   <u>Noah Bergam</u>, Abani Patra. <br>
-  <a href="gaga.pdf">[Slides] </a> 
+  <a href="_publications/gaga.pdf">[Slides] </a> 
   </li>
 
 
