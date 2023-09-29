@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third-year at Columbia studying math and computer science. This website houses some of my publications and teaching materials.
+I am a third-year student at Columbia University, majoring in mathematics. I am graduating this spring and hence am currently applying for graduate school and research jobs.
+
+This website houses some of my publications and teaching materials.
 
 Research
 ======
-I'm interested in theoretical computer science, specifically applications of probability and functional analysis in machine learning. I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
+I'm interested in theoretical computer science, including approximation algorithms, foundations of machine learning, and geometric data analysis. I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
 
-My current research projects include a rigorous analysis of the loss landscape of t-SNE (a popular dimensionality reduction algorithm) and enhancing a b-spline-based regression technique for remote sensing time series data. 
+Recent research projects include a rigorous analysis of globally optimal t-distributed stochastic neighbor embeddiings (t-SNE) and a new, density-adaptive discretization scheme for altimetry modeling of the Greenland ice sheet.
 
 
 Teaching
