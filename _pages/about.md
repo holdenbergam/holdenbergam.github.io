@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year student at Columbia University, majoring in mathematics. I am graduating this spring and hence am currently applying for graduate school and research jobs.
+I am a third-year student at Columbia University, majoring in mathematics. This website houses some of my publications and teaching materials.
 
-This website houses some of my publications and teaching materials.
 
 Research
 ======
