@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year student at Columbia University, majoring in mathematics. This website houses some of my publications and teaching materials.
+<a href="CV.pdf">[CV]</a> I am a third and final-year undergraduate at Columbia University, majoring in mathematics. I am currently applying for PhD programs in computer science. This website houses some of my publications and teaching materials.
+
+
 
 
 Research
 ======
-I'm interested in theoretical computer science, including approximation algorithms, foundations of machine learning, and geometric data analysis. I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
+I'm interested in theoretical computer science, including foundations of machine learning, geometric data analysis, and algorithms (especially approximation algorithms and algorithms for massive data). I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
 
 Recent research projects include a rigorous analysis of globally optimal t-distributed stochastic neighbor embeddiings (t-SNE) and a new, density-adaptive discretization scheme for altimetry modeling of the Greenland ice sheet.
 

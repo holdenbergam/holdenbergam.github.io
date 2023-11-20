@@ -9,6 +9,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 
 <ul>
+
   <li><b>Legal and Political Stance Detection of SCOTUS Language</b> <br>
   <u>Noah Bergam</u>, Emily Allaway, and Kathleen McKeown <br>
   NLLP Workshop, EMNLP 2022. <br>
@@ -32,11 +33,6 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   <li><b>Confidence-Calibrated Ensemble Dense Phrase Retrieval.</b> <br>
   William Yang, <u>Noah Bergam</u>, Arnav Jain, Nima Sheikhoslami. <br>
   <a href="https://arxiv.org/abs/2306.15917">[Paper] </a> 
-  </li>
-
-  <li><b>GAGA: A Graph Theoretic Approach to Greenland Surface Modeling</b> <br>
-  <u>Noah Bergam</u>, Abani Patra. <br>
-  <a href="https://njbergam.github.io/publications/gaga.pdf">[Slides] </a> 
   </li>
 
 
