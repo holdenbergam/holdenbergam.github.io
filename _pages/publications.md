@@ -10,6 +10,13 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 <ul>
 
+<li><b>On Optimal t-distributed Stochastic Neighbor Embeddings</b> <br>
+  <u>Noah Bergam</u> and Nakul Verma. <br>
+  Fall Fourier Talks, 2023. <br>
+  <a href="https://njbergam.github.io/publications/tnse_poster.pdf">[Poster] </a> 
+  </li>
+
+
   <li><b>Legal and Political Stance Detection of SCOTUS Language</b> <br>
   <u>Noah Bergam</u>, Emily Allaway, and Kathleen McKeown <br>
   NLLP Workshop, EMNLP 2022. <br>

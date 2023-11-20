@@ -28,6 +28,12 @@ t-SNE's spectral regime
 <a href="ums3.pdf">[Presentation] </a>
 t-SNE (Van der Maaten 2008) is a powerful dimensionality reduction algorithm. In this talk, we introduce the leading theoretical model for understanding t-SNE (and what it might be missing). This model, developed by Cai and Ma (2022), unveils how, under certain conditions, t-SNE approximates a classical dimensionality reduction technique known as spectral clustering.
 
+t-SNE's spectral regime
+======
+<a href="ums_tsne.pdf">[Presentation] </a>
+t-distibuted stochastic neighbor embedding (Van der Maaten 2008) is popular method for data visualization. Recent results have rigorously established that t-SNE optimized with gradient descent is effective at visualizing cluster structure in high-dimensional data. In this talk, we introduce one of the leading theoretical models for understanding t-SNE (and what it might be missing). This model, developed by Cai and Ma (2022),unveils how, under certain conditions, t-SNE approximates a classical dimensionality reduction technique known as spectral clustering.   
+
+
 The Duality of Trace and Determinant
 ======
 <a href="ums4.pdf">[Presentation] </a>
