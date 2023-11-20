@@ -13,7 +13,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 <li><b>On Optimal t-distributed Stochastic Neighbor Embeddings</b> <br>
   <u>Noah Bergam</u> and Nakul Verma. <br>
   Fall Fourier Talks, 2023. <br>
-  <a href="https://njbergam.github.io/publications/tnse_poster.pdf">[Poster] </a> 
+  <a href="https://njbergam.github.io/publications/tsne_poster.pdf">[Poster] </a> 
   </li>
 
 
